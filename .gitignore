@@ -1,5 +1,13 @@
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
 env/
 venv/
+
+# SQLite database
 *.db
+*.sqlite3
