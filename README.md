@@ -53,10 +53,3 @@ The project is organized using the Model-View-Controller (MVC) pattern. In the a
 
 The application includes features such as user registration and login, posting, commenting, liking, and editing or deleting post. The user also has the ability to change their username and password. Additionally, users can delete their comments as well. The application also includes an API for retrieving user engagement data and a feature for following and unfollowing other users.
 
-
-
-## License
-
-
-
-
