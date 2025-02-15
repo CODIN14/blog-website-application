@@ -53,21 +53,10 @@ The project is organized using the Model-View-Controller (MVC) pattern. In the a
 
 The application includes features such as user registration and login, posting, commenting, liking, and editing or deleting post. The user also has the ability to change their username and password. Additionally, users can delete their comments as well. The application also includes an API for retrieving user engagement data and a feature for following and unfollowing other users.
 
-## Installation and Usage
 
-To run the application:
-
-1. Clone the repository
-2. Create a virtual environment with `python -m venv .{{Foldername}}`
-3. Activate the virtual environment with `source {{Foldername}}/bin/activate`
-4. Install the dependencies with `pip install -r requirements.txt`
-5. To run the flask app, on the shell, run ``python app.py``
-6. Access the application at `http://localhost:5000`
-
-## API 
-
-The API endpoint for retrieving user engagement data is `/api/user/<user_id>/engagement`. The endpoint takes a user ID as a parameter and returns a JSON object
 
 ## License
 
-This project is licensed under the terms of the MIT license. See the LICENSE file for details.
+
+
+
