@@ -1,4 +1,3 @@
-[![GitHub stars](https://img.shields.io/github/stars/codingaslu/Bloglite.svg)](https://github.com/codingaslu/Bloglite/stargazers)
 
 # Blog Lite Web Application
 
